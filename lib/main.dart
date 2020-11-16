@@ -89,7 +89,7 @@ class _MyAppState extends State<MyApp> {
         new SizedBox(height: 15.0),
         new RaisedButton(
           onPressed: _sendForm,
-          child: new Text('Enviar'),
+          child: new Text('Clique 2x'),
         ),
         Container(
           color: Colors.deepPurple[100],
